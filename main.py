@@ -2,11 +2,12 @@ import mlflow
 import mlflow.sklearn
 import pandas as pd
 import numpy as np
+from sklearn.preprocessing import StandardScaler
 from scripts.data_preprocessing import preprocess_data
 from scripts.data_exploration import explore_data
 from scripts.data_preparation import prepare_data
-from scripts.train_model import train_model
-from scripts.score_model import score_model
+from scripts.model_training import train_model
+from scripts.model_evaluation import score_model
 
 if __name__ == "__main__":
 
@@ -22,6 +23,12 @@ if __name__ == "__main__":
     # Prepare the data
     X_train , X_test, y_train, y_test = prepare_data(data)
     print("Data Prepared Successfully")
+
+
+    # Standard Scaling
+    scaler = StandardScaler()
+    X_train = scaler.fit_transform(X_train)
+    X_test = scaler.transform(X_test)
     # Train the model
     # Train Model 
     parameters = {
