@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Samia/Documents/Github/PredictiveMaintenance/mlruns/108744370899352268/ad64628867e54808963b7e32cf8882ea/artifacts
+end_time: 1699809589093
+entry_point_name: ''
+experiment_id: '108744370899352268'
+lifecycle_stage: active
+run_id: ad64628867e54808963b7e32cf8882ea
+run_name: 30% Split
+run_uuid: ad64628867e54808963b7e32cf8882ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699809577635
+status: 4
+tags: []
+user_id: Samia

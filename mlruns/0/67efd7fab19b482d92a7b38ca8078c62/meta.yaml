@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Samia/Documents/Github/PredictiveMaintenance/mlruns/0/67efd7fab19b482d92a7b38ca8078c62/artifacts
+end_time: 1699746738905
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67efd7fab19b482d92a7b38ca8078c62
+run_name: hilarious-hog-568
+run_uuid: 67efd7fab19b482d92a7b38ca8078c62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699746726564
+status: 3
+tags: []
+user_id: Samia

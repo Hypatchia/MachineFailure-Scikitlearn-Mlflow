@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/Samia/Documents/Github/PredictiveMaintenance/mlruns/108744370899352268
+creation_time: 1699747834367
+experiment_id: '108744370899352268'
+last_update_time: 1699747834367
+lifecycle_stage: active
+name: RandomForestClassifier

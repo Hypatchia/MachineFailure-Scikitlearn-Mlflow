@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Samia/Documents/Github/PredictiveMaintenance/mlruns/725934318015137802/86eef291983e451ebd69a72c546e4a2c/artifacts
+end_time: 1699747582432
+entry_point_name: ''
+experiment_id: '725934318015137802'
+lifecycle_stage: active
+run_id: 86eef291983e451ebd69a72c546e4a2c
+run_name: fun-tern-484
+run_uuid: 86eef291983e451ebd69a72c546e4a2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699747573149
+status: 3
+tags: []
+user_id: Samia

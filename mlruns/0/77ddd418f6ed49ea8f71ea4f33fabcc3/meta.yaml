@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Samia/Documents/Github/PredictiveMaintenance/mlruns/0/77ddd418f6ed49ea8f71ea4f33fabcc3/artifacts
+end_time: 1699746490367
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 77ddd418f6ed49ea8f71ea4f33fabcc3
+run_name: big-shark-273
+run_uuid: 77ddd418f6ed49ea8f71ea4f33fabcc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699746490191
+status: 4
+tags: []
+user_id: Samia
